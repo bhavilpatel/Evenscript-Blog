@@ -1,0 +1,28 @@
+{
+  "name": "evenscript",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.1"
+  },
+  "dependencies": {
+    "@editorjs/paragraph": "^2.9.0",
+    "draft-convert": "^2.1.13",
+    "draft-js-export-html": "^1.4.1",
+    "draftjs-to-html": "^0.9.1",
+    "html-react-parser": "^3.0.16",
+    "next": "^13.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-draft-wysiwyg": "^1.15.0",
+    "react-window": "^1.8.9"
+  }
+}
